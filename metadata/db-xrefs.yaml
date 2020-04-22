@@ -368,7 +368,7 @@
       url_syntax: http://purl.obolibrary.org/obo/CL_[example_id]
       example_id: CL:0000041
       example_url: http://purl.obolibrary.org/obo/CL_0000041
-- database: ClinVarR
+- database: clinvar.record
   name: ClinVar Record
   rdf_uri_prefix: http://identifiers.org/clinvar.record/
   generic_urls:
