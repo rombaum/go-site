@@ -376,9 +376,9 @@
   entity_types:
     - type_name: entity
       type_id: BET:0000000
-      url_syntax: https://www.ncbi.nlm.nih.gov/clinvar/[example_id]
+      url_syntax: https://identifiers.org/clinvar.record:[example_id]
       example_id: clinvar.record:RCV000033555.3
-      example_url: https://www.ncbi.nlm.nih.gov/clinvar/RCV000033555.3
+      example_url: https://identifiers.org/clinvar.record:RCV000033555.3
 - database: CO_125
   name: Crop Ontology CGIAR Musa Anatomy
   generic_urls:
